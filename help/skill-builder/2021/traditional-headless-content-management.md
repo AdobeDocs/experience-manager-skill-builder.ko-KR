@@ -1,6 +1,6 @@
 ---
 title: 웹 및 그 이상의 기능 - 기존 및 Headless 콘텐츠 관리의 강력한 기능
-description: 설명
+description: 기존 및 Headless CMS 프레임워크가 콘텐츠 관리 및 디지털 경험 전달의 미래를 어떻게 형성하는지 알아봅니다.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 8938
 exl-id: 86f2ce11-9603-4848-9626-46ed49ef821a
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] 기본 사항
 
-5부로 구성된 이 웨비나 시리즈에서 Adobe Experience Manager에서 풍부하고 매력적인 고객 경험을 만드는 방법을 알아보십시오. 기본 개념과 작업을 소개하면서 콘텐츠 작성의 빌딩 블록부터 시작하겠습니다. 여기에는 사이트 관리 기능과 AEM 내에서 디지털 에셋을 처리하는 기본 사항이 포함됩니다. 시리즈의 후반부에서는 콘텐츠를 재사용하고 여러 채널에 제공하여 시간을 절약하고 효율성을 높일 수 있는 기능을 살펴봅니다.
+5부로 구성된 이 웨비나 시리즈에서 Adobe Experience Manager에서 풍부하고 매력적인 고객 경험을 만드는 방법을 알아보십시오. 이 시리즈는 기본 개념과 작업을 소개하면서 콘텐츠 작성의 빌딩 블록으로 시작합니다. 사이트 관리 기능과 AEM 내에서 디지털 에셋을 처리하는 기본 사항이 포함되어 있습니다. 시리즈 후반부에서는 콘텐츠를 재사용하고 여러 채널에 제공하여 시간을 절약하고 효율성을 높일 수 있는 기능을 살펴봅니다.
 
 ## 웹 및 그 이상의 기능 - 기존 및 Headless 콘텐츠 관리의 강력한 기능
 

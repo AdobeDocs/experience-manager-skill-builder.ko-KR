@@ -1,6 +1,6 @@
 ---
 title: 콘텐츠를 다시 찾는 데 시간을 낭비하지 마십시오.
-description: 일상적인 효율성을 높이는 팁과 요령으로 AEM Sites 및 Media Library 관리 UI에 대해 깊이 있게 살펴봄으로써 숙련된 작성자가 되십시오
+description: AEM Sites 및 Media Library에 대한 심층적인 안내서와 함께 일상적인 워크플로우를 간소화하는 실용적인 팁을 통해 작성 능력을 향상시킵니다.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] 기본 사항
 
-5부로 구성된 이 웨비나 시리즈에서 Adobe Experience Manager에서 풍부하고 매력적인 고객 경험을 만드는 방법을 알아보십시오. 기본 개념과 작업을 소개하면서 콘텐츠 작성의 빌딩 블록부터 시작하겠습니다. 여기에는 사이트 관리 기능과 AEM 내에서 디지털 에셋을 처리하는 기본 사항이 포함됩니다. 시리즈의 후반부에서는 콘텐츠를 재사용하고 여러 채널에 제공하여 시간을 절약하고 효율성을 높일 수 있는 기능을 살펴봅니다.
+5부로 구성된 이 웨비나 시리즈에서 Adobe Experience Manager에서 풍부하고 매력적인 고객 경험을 만드는 방법을 알아보십시오. 이 시리즈는 기본 개념과 작업을 소개하면서 콘텐츠 작성의 빌딩 블록으로 시작합니다. 사이트 관리 기능과 AEM 내에서 디지털 에셋을 처리하는 기본 사항이 포함되어 있습니다. 시리즈 후반부에서는 콘텐츠를 재사용하고 여러 채널에 제공하여 시간을 절약하고 효율성을 높일 수 있는 기능을 살펴봅니다.
 
 ## 콘텐츠를 다시 찾는 데 시간을 낭비하지 마십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-일상적인 효율성을 높이는 팁과 요령으로 AEM Sites 및 Media Library 관리 UI에 대해 깊이 있게 살펴봄으로써 숙련된 작성자가 되십시오.
+AEM Sites 및 Media Library 관리 UI를 통한 여정으로 작성 기술을 향상하고 일상적인 생산성을 향상시키는 효과적인 전략으로 무장합니다.
 
 ## 시리즈 녹화
 
