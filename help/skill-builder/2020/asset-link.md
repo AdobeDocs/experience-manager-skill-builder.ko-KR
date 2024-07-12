@@ -19,20 +19,20 @@ ht-degree: 5%
 
 ---
 
-# [!DNL Asset Link] - ADOBE [!DNL Experience Manager Assets] 시리즈
+# [!DNL Asset Link] - Adobe [!DNL Experience Manager Assets] 시리즈
 
-이 5부로 구성된 웨비나 시리즈를 통해 지식 기반을 구축하고 Adobe 투자를 극대화할 수 있습니다 [!DNL Experience Manager Assets]. Adobe의 새로운 기능 또는 숙련된 기능 [!DNL Experience Manager Assets]? 5가지 주요 기능에 대한 심층적인 탐색으로 귀하의 기술을 완벽히 습득하십시오. 전문성을 효율적으로 향상시키십시오. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
+이 5부로 구성된 웨비나 시리즈를 사용하여 기술 자료를 구축하고 Adobe [!DNL Experience Manager Assets]에 대한 투자를 극대화할 수 있습니다. Adobe [!DNL Experience Manager Assets]을(를) 처음 사용하시겠습니까? 5가지 주요 기능에 대한 심층적인 탐색으로 귀하의 기술을 완벽히 습득하십시오. 전문성을 효율적으로 향상시키십시오. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
-[!DNL Asset Link] 는 Adobe Creative Cloud에 대한 기본 연결입니다.
+[!DNL Asset Link]은(는) Adobe Creative Cloud에 대한 기본 연결입니다.
 
 ## 리소스
 
 * [Adobe [!DNL Asset Link] 비디오](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
-* [[!DNL Asset Link] Adobe XD용](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html)
-* [구성 [!DNL AEM Assets] Adobe 6.5 및 6.4 [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [구성 [!DNL AEM as a Cloud Service] Adobe [!DNL Asset Link]](https://helpx.adobe.com/kr/enterprise/using/configure-aem-assets-for-asset-link.html)
+* Adobe XD용 [[!DNL Asset Link] 1}](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html)
+* Adobe에 대해 [구성 [!DNL AEM Assets] 6.5 및 6.4 [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Adobe에 대해 구성 [!DNL AEM as a Cloud Service] 구성 [!DNL Asset Link]](https://helpx.adobe.com/kr/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## 시리즈 녹화
 

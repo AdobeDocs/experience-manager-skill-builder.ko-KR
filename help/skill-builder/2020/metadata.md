@@ -21,7 +21,7 @@ ht-degree: 3%
 
 # 메타데이터 - Adobe [!DNL Experience Manager Assets] 시리즈
 
-이 5부로 구성된 웨비나 시리즈를 통해 지식 기반을 구축하고 Adobe 투자를 극대화할 수 있습니다 [!DNL Experience Manager Assets]. 새로운 사용자와 숙련된 사용자 모두에게 완벽한 이 세션은 Adobe에 대한 포괄적인 탐색을 제공합니다 [!DNL Experience Manager Assets]의 5가지 필수 기능은 이 솔루션을 보완하는 데 도움이 됩니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
+이 5부로 구성된 웨비나 시리즈를 사용하여 기술 자료를 구축하고 Adobe [!DNL Experience Manager Assets]에 대한 투자를 극대화할 수 있습니다. 새로운 사용자와 숙련된 사용자 모두에게 적합한 이 세션은 솔루션을 지원하기 위한 [!DNL Experience Manager Assets] Adobe의 5가지 필수 기능에 대해 포괄적으로 살펴봅니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
@@ -29,12 +29,12 @@ ht-degree: 3%
 
 ## 리소스
 
-*[메타데이터 스키마를 사용하여 에셋 메타데이터 관리](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
+*[메타데이터 스키마를 사용하여 자산 메타데이터 관리](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
 *[메타데이터 스키마 확장](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
 *[계단식 메타데이터를 사용하여 메타데이터 작성 최적화](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
-*[메타데이터 프로필을 사용하여 자산에 메타데이터 자동 적용](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[메타데이터 프로필을 사용하여 에셋에 메타데이터 자동 적용](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
 *[AEM 메타데이터 스키마](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[에셋 메타데이터 관리](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[자산 메타데이터 관리](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## 시리즈 녹화
 

@@ -11,7 +11,7 @@ ht-degree: 4%
 
 # [!DNL Experience Manager] 스킬 빌더 레코딩
 
-Adobe 시작 [!DNL Experience Manager] 지식 기반을 구축하고 Adobe 투자를 극대화하도록 설계된 녹화된 웨비나를 갖춘 Skill Builder Recordings 홈 [!DNL Experience Manager].
+기술 자료를 구축하고 Adobe [!DNL Experience Manager]에 대한 투자를 극대화하도록 설계된 녹화된 웨비나를 갖춘 Adobe [!DNL Experience Manager] Skill Builder 녹화 홈에 오신 것을 환영합니다.
 
 ## 새로운 기능
 
@@ -27,7 +27,7 @@ Adobe 시작 [!DNL Experience Manager] 지식 기반을 구축하고 Adobe 투�
     </a>
     </div>
     <p>
-    <em>[!DNL Asset Link] 는 Adobe Creative Cloud에 대한 기본 연결입니다.</em>
+    <em>[!DNL Asset Link]은(는) Adobe Creative Cloud에 대한 기본 연결입니다.</em>
     <p>
   </td>
   <td>
@@ -40,7 +40,7 @@ Adobe 시작 [!DNL Experience Manager] 지식 기반을 구축하고 Adobe 투�
     </a>
     </div>
     <p>
-    <em>내부 및 외부 팀과의 쉬운 에셋 공유.</em>
+    <em>내부 및 외부 팀과의 쉬운 자산 공유</em>
     </p>
   </td>
   <td>
@@ -61,4 +61,4 @@ Adobe 시작 [!DNL Experience Manager] 지식 기반을 구축하고 Adobe 투�
 
 >[!TIP]
 >
->**이전 Skill Builder 이벤트의 녹화본은 왼쪽에 있는 탐색을 참조하십시오**.
+>**이전 Skill Builder 이벤트의 녹화본을 보려면 왼쪽에 있는 탐색을 확인하십시오**.

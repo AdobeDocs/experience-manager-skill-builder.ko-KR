@@ -19,13 +19,13 @@ ht-degree: 3%
 
 ---
 
-# [!DNL Dynamic Media]- ADOBE [!DNL Experience Manager Assets] 시리즈
+# [!DNL Dynamic Media]- Adobe [!DNL Experience Manager Assets] 계열
 
-이 5부로 구성된 웨비나 시리즈를 통해 지식 기반을 구축하고 Adobe 투자를 극대화할 수 있습니다 [!DNL Experience Manager Assets]. Adobe 검색 또는 세분화 [!DNL Experience Manager Assets] 5가지 필수 기능에 초점을 맞춘 전문 지식 - 숙련도에 대한 빠른 트랙 - 을 제공합니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
+이 5부로 구성된 웨비나 시리즈를 사용하여 기술 자료를 구축하고 Adobe [!DNL Experience Manager Assets]에 대한 투자를 극대화할 수 있습니다. 5가지 필수 기능에 대해 자세히 살펴봄으로써 Adobe [!DNL Experience Manager Assets]에 대한 전문 지식을 찾거나 구체화합니다. 바로 숙련도에 이르는 빠른 트랙입니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
-를 사용하여 모든 채널 및 화면에 대한 에셋 출력 자동화 [!DNL Dynamic Media].
+[!DNL Dynamic Media]을(를) 사용하여 모든 채널 및 화면에 대한 자산 출력을 자동화합니다.
 
 ## 리소스
 
