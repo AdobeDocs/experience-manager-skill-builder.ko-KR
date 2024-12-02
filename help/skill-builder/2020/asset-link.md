@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Asset Link]"
+title: '[!DNL Asset Link]'
 description: Adobe Creative Cloud에 대한 기본 연결.
 solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
 product: experience manager

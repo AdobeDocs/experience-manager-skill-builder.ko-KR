@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Dynamic Media]"
+title: '[!DNL Dynamic Media]'
 description: 모든 채널 및 화면에 대한 에셋 출력 자동화
 solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
 product: experience manager
