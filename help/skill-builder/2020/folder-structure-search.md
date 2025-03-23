@@ -8,11 +8,11 @@ feature: Asset Management
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 2%
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 # 폴더 구조 및 검색 - Adobe [!DNL Experience Manager Assets] 시리즈
 
-이 5부로 구성된 웨비나 시리즈를 사용하여 기술 자료를 구축하고 Adobe [!DNL Experience Manager Assets]에 대한 투자를 극대화할 수 있습니다. [!DNL Experience Manager Assets] Adobe을 처음 시작하거나 기술을 개선하고 있는 경우, 5가지 주요 영역에 대한 심층적인 탐색은 전문 지식을 향상시키는 완벽한 방법입니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
+이 5부로 구성된 웨비나 시리즈를 사용하여 기술 자료를 구축하고 Adobe [!DNL Experience Manager Assets]에 대한 투자를 극대화할 수 있습니다. Adobe [!DNL Experience Manager Assets]을(를) 처음 사용하든 기술을 개선하든, 다섯 가지 주요 영역에 대한 심층적인 분석을 통해 전문성을 높일 수 있습니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 

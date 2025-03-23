@@ -8,20 +8,20 @@ feature: "[!DNL Dynamic Media Classic]"
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 3%
 
 ---
 
-# [!DNL Dynamic Media]- Adobe [!DNL Experience Manager Assets] 계열
+# [!DNL Dynamic Media]- Adobe [!DNL Experience Manager Assets] 시리즈
 
-이 5부로 구성된 웨비나 시리즈를 사용하여 기술 자료를 구축하고 Adobe [!DNL Experience Manager Assets]에 대한 투자를 극대화할 수 있습니다. 5가지 필수 기능에 대해 자세히 살펴봄으로써 Adobe [!DNL Experience Manager Assets]에 대한 전문 지식을 찾거나 구체화합니다. 바로 숙련도에 이르는 빠른 트랙입니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
+이 5부로 구성된 웨비나 시리즈를 사용하여 기술 자료를 구축하고 Adobe [!DNL Experience Manager Assets]에 대한 투자를 극대화할 수 있습니다. 5가지 필수 기능(빠른 트랙-숙련도)에 대해 자세히 살펴보면서 Adobe [!DNL Experience Manager Assets] 전문 지식을 찾거나 구체화합니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -33,7 +33,7 @@ ht-degree: 3%
 *[[!DNL Dynamic Media] 비디오](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
 *[리치 미디어 전략 킥스타트 안내서](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[리치 미디어 전략 이미지 사전 설정 안내서](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Dynamic Media 우수 사례](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
+*[Dynamic Media 모범 사례](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## 시리즈 녹화
 

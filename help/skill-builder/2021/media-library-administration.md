@@ -1,6 +1,6 @@
 ---
 title: 콘텐츠를 다시 찾는 데 시간을 낭비하지 마십시오.
-description: AEM 사이트 및 Media Library에 대한 심층적인 안내서와 함께 일별 워크플로우를 간소화하는 실용적인 팁을 통해 작성 능력을 향상시킵니다.
+description: AEM의 사이트 및 미디어 라이브러리에 대한 심층적인 안내서와 일상적인 워크플로를 간소화하는 실용적인 팁을 통해 작성 능력을 향상시킵니다.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -8,11 +8,11 @@ feature: Adobe [!DNL Asset Link]
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-AEM의 Sites 및 Media Library 관리 UI를 통한 여정으로 작성 기술을 향상하고 일상적인 생산성을 향상시키는 효과적인 전략으로 무장합니다.
+AEM의 사이트 및 Media Library 관리 UI를 통해 여정으로 작성 기술을 향상시켜 일상적인 생산성을 향상시키는 효과적인 전략으로 무장합니다.
 
 ## 시리즈 녹화
 
