@@ -30,7 +30,7 @@ DAM 설정 및 사용의 기본 사항.
 ## 리소스
 
 * [[!DNL AEM Assets] 사용 안내서](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
-* [폴더 구조 설정 [!DNL AEM Assets] 2}](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [폴더 구조 설정 [!DNL AEM Assets] 2&rbrace;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
 * [폴더 사용 권한 설정 [!DNL AEM Assets] 폴더 사용 권한](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [컬렉션을 사용하여 자산 구성 및 공유](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
 * [기계 학습으로 시각적으로 유사한 자산 찾기](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)

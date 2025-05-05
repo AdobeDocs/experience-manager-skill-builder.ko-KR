@@ -30,7 +30,7 @@ ht-degree: 5%
 ## 리소스
 
 * [Adobe [!DNL Asset Link] 비디오](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
-* Adobe XD용 [[!DNL Asset Link] 1}](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html)
+* Adobe XD용 [[!DNL Asset Link] 1&rbrace;](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html)
 * Adobe에 대해 [구성 [!DNL AEM Assets] 6.5 및 6.4 [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
 * [Adobe에 대해 구성 [!DNL AEM as a Cloud Service] 을 [!DNL Asset Link]](https://helpx.adobe.com/kr/enterprise/using/configure-aem-assets-for-asset-link.html)
 
