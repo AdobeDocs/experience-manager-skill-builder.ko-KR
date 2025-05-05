@@ -29,11 +29,11 @@ ht-degree: 3%
 
 ## 리소스
 
-*[[!DNL Dynamic Media] 사용 사례](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
-*[[!DNL Dynamic Media] 비디오](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
+*[[!DNL Dynamic Media] 사용 사례](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
+*[[!DNL Dynamic Media] 비디오](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
 *[리치 미디어 전략 킥스타트 안내서](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[리치 미디어 전략 이미지 사전 설정 안내서](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Dynamic Media 모범 사례](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
+*[Dynamic Media 모범 사례](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## 시리즈 녹화
 
