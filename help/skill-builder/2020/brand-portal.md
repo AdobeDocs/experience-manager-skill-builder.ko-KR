@@ -30,7 +30,7 @@ Brand Portal을 사용하면 내부 및 외부 팀과 에셋을 쉽게 공유할
 ## 리소스
 
 * [[!UICONTROL Brand Portal] 개요](https://experienceleague.adobe.com/ko/docs/experience-manager-brand-portal/using/introduction/brand-portal)
-* [[!UICONTROL Brand Portal] 비디오](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!UICONTROL Brand Portal] 비디오](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
 * [[!DNL Asset] 소싱](https://experienceleague.adobe.com/ko/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## 시리즈 녹화
