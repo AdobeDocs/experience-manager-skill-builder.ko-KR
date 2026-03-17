@@ -1,7 +1,7 @@
 ---
 title: Brand Portal
 description: 내부 및 외부 팀과의 간편한 에셋 공유
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Brand Portal
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 3%
+source-wordcount: '149'
+ht-degree: 22%
 
 ---
 
@@ -29,8 +29,8 @@ Brand Portal을 사용하면 내부 및 외부 팀과 에셋을 쉽게 공유할
 
 ## 리소스
 
-* [[!UICONTROL Brand Portal]](https://experienceleague.adobe.com/ko/docs/experience-manager-brand-portal/using/introduction/brand-portal) 개요
-* [[!UICONTROL Brand Portal] 비디오](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!UICONTROL Brand Portal] 개요](https://experienceleague.adobe.com/ko/docs/experience-manager-brand-portal/using/introduction/brand-portal)
+* [[!UICONTROL Brand Portal] 비디오](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
 * [[!DNL Asset] 소싱](https://experienceleague.adobe.com/ko/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## 시리즈 녹화

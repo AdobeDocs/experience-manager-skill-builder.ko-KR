@@ -1,7 +1,7 @@
 ---
 title: 메타데이터
 description: 검색 기능을 최적화하기 위한 명확한 전략 설정
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Metadata
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7339
 exl-id: 35b85f97-ffe4-43f9-98ae-dae0d36bae91
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 3%
+source-wordcount: '193'
+ht-degree: 2%
 
 ---
 
@@ -29,12 +29,12 @@ ht-degree: 3%
 
 ## 리소스
 
-*[메타데이터 스키마를 사용하여 자산 메타데이터 관리](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/authoring/metadata)
-*[메타데이터 스키마 확장](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[계단식 메타데이터를 사용하여 메타데이터 작성 최적화](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
-*[메타데이터 프로필을 사용하여 에셋에 메타데이터 자동 적용](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/configuring/metadata-profiles)
-*[AEM 메타데이터 스키마](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[자산 메타데이터 관리](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[메타데이터 스키마를 사용하여 자산 메타데이터 관리](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
+*[메타데이터 스키마 확장](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[계단식 메타데이터를 사용하여 메타데이터 작성 최적화](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[메타데이터 프로필을 사용하여 에셋에 메타데이터 자동 적용](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[AEM 메타데이터 스키마](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[자산 메타데이터 관리](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## 시리즈 녹화
 

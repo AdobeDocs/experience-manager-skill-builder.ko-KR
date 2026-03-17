@@ -1,10 +1,10 @@
 ---
 title: '[!DNL Asset Link]'
 description: Adobe Creative Cloud에 대한 기본 연결.
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
-feature: Adobe [!DNL Asset Link]
+feature: Adobe Asset Link
 topic: Content Management
 role: User
 level: Beginner
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 5%
+source-wordcount: '145'
+ht-degree: 15%
 
 ---
 
@@ -29,10 +29,10 @@ ht-degree: 5%
 
 ## 리소스
 
-* [Adobe [!DNL Asset Link] 비디오](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
-* Adobe XD용 [[!DNL Asset Link] 1&rbrace;](https://helpx.adobe.com/kr/enterprise/using/adobe-asset-link-for-xd.html)
-* Adobe에 대해 [구성 [!DNL AEM Assets] 6.5 및 6.4 [!DNL Asset Link]](https://helpx.adobe.com/kr/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Adobe에 대해 구성 [!DNL AEM as a Cloud Service] 을 [!DNL Asset Link]](https://helpx.adobe.com/kr/enterprise/using/configure-aem-assets-for-asset-link.html)
+* [Adobe [!DNL Asset Link] 비디오](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [Adobe XD용 [!DNL Asset Link]](https://helpx.adobe.com/kr/enterprise/using/adobe-asset-link-for-xd.html)
+* [Adobe에 대해  [!DNL AEM Assets] 6.5 및 6.4 구성 [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Adobe에 대해  [!DNL AEM as a Cloud Service] 구성 [!DNL Asset Link]](https://helpx.adobe.com/kr/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## 시리즈 녹화
 
