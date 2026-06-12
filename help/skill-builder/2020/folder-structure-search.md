@@ -29,13 +29,13 @@ DAM 설정 및 사용의 기본 사항.
 
 ## 리소스
 
-* [[!DNL AEM Assets] 사용 안내서](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/assets/assets)
-* [&#x200B; [!DNL AEM Assets] 폴더 구조 설정 중](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/configuring/baseline-folders)
-* [&#x200B; [!DNL AEM Assets] 폴더 권한 설정](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/configuring/baseline-permissions)
-* [컬렉션을 사용하여 에셋 구성 및 공유](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/search-and-discovery/collections)
-* [머신 러닝을 통해 시각적으로 유사한 에셋 찾기](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [동적 검색 패싯을 사용하여 정확하고 정확한 검색 결과 얻기](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [고급 전체 텍스트 검색 구문](https://experienceleague.adobe.com/ko/docs/experience-manager-64/assets/using/gql-search#using)
+* [[!DNL AEM Assets] 사용 안내서](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
+* [ [!DNL AEM Assets] 폴더 구조 설정 중](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [ [!DNL AEM Assets] 폴더 권한 설정](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [컬렉션을 사용하여 에셋 구성 및 공유](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
+* [머신 러닝을 통해 시각적으로 유사한 에셋 찾기](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [동적 검색 패싯을 사용하여 정확하고 정확한 검색 결과 얻기](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [고급 전체 텍스트 검색 구문](https://experienceleague.adobe.com/en/docs/experience-manager-64/assets/using/gql-search#using)
 
 ## 시리즈 녹화
 
