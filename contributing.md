@@ -19,7 +19,7 @@ Adobe Experience Manager Screens 설명서에 기여해 주셔서 감사합니�
 
 ## 기여자 안내서 설명서
 
-[기여자 안내서](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction)를 참조하세요.
+[기여자 안내서](https://experienceleague.adobe.com/ko/docs/contributor/contributor-guide/introduction)를 참조하세요.
 
 ## 질문이 있습니까?
 
