@@ -12,13 +12,24 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+  - id: beaff0dd-a904-4c6b-8290-b527cd877d75
+    internal-label: Dynamic Media Classic
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 2%
-
 ---
-
 # [!DNL Dynamic Media]- Adobe [!DNL Experience Manager Assets] 시리즈
 
 이 5부로 구성된 웨비나 시리즈를 사용하여 기술 자료를 구축하고 Adobe [!DNL Experience Manager Assets]에 대한 투자를 극대화할 수 있습니다. 5가지 필수 기능(빠른 트랙-숙련도)에 대해 자세히 살펴보면서 Adobe [!DNL Experience Manager Assets] 전문 지식을 찾거나 구체화합니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
@@ -29,11 +40,11 @@ ht-degree: 2%
 
 ## 리소스
 
-*[[!DNL Dynamic Media] 사용 사례](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
-*[[!DNL Dynamic Media] 비디오](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
+*[[!DNL Dynamic Media] 사용 사례](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
+*[[!DNL Dynamic Media] 비디오](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
 *[리치 미디어 전략 킥스타트 안내서](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[리치 미디어 전략 이미지 사전 설정 안내서](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Dynamic Media 모범 사례](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
+*[Dynamic Media 모범 사례](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## 시리즈 녹화
 
