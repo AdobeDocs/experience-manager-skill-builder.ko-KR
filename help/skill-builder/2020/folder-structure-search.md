@@ -12,13 +12,22 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
-
 ---
-
 # 폴더 구조 및 검색 - Adobe [!DNL Experience Manager Assets] 시리즈
 
 이 5부로 구성된 웨비나 시리즈를 사용하여 기술 자료를 구축하고 Adobe [!DNL Experience Manager Assets]에 대한 투자를 극대화할 수 있습니다. Adobe [!DNL Experience Manager Assets]을(를) 처음 사용하든 기술을 개선하든, 다섯 가지 주요 영역에 대한 심층적인 분석을 통해 전문성을 높일 수 있습니다. Adobe 전문가는 기본 사항을 검토하고 즉시 적용할 수 있는 실행 가능한 다음 단계를 남겨주는 고급 통찰력을 제공합니다.
@@ -30,7 +39,7 @@ DAM 설정 및 사용의 기본 사항.
 ## 리소스
 
 * [[!DNL AEM Assets] 사용 안내서](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/assets/assets)
-* [&#x200B; [!DNL AEM Assets] 폴더 구조 설정 중](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [&#x200B; [!DNL AEM Assets] 폴더 구조 설정 중](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
 * [&#x200B; [!DNL AEM Assets] 폴더 권한 설정](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [컬렉션을 사용하여 에셋 구성 및 공유](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/search-and-discovery/collections)
 * [머신 러닝을 통해 시각적으로 유사한 에셋 찾기](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/search-and-discovery/search)
