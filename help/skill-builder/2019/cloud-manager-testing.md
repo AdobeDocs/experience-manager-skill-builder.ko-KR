@@ -19,7 +19,7 @@ ht-degree: 3%
 ---
 # [!DNL Cloud Manager]&#x200B;(으)로 모범 사례 테스트 - 2019년 9월
 
->[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507314/?captions=kor&quality=9&learn=on)
 
 
 **발표자**
